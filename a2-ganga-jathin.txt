@@ -1,3 +1,12 @@
+name: G.Ganga Jathin
+
+email:gganga.jathin.bce17@itbhu.ac.in 
+ 
+assignment: 2 its name is NEXUS.py
+
+github: https://github.com/GangaJathin/dev-bootcamp-assignments/upload/master
+
+
 
     
     
